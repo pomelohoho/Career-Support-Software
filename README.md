@@ -185,7 +185,7 @@ International students on F-1 visas often struggle to find H-1B–sponsoring emp
 
 ## Work Visa System Analysis
 
-For detailed background on H-1B rules, processes, and stakeholder perspectives, see the [analysis section in our paper](docs/WorkVisaSystemAnalysis.md) (or Section 9 below).
+For detailed background on H-1B rules, processes, and stakeholder perspectives, see the [analysis section in our paper](/Individual Project Final Paper.pdf) (or Section 9 below).
 
 ---
 
