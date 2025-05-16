@@ -1,0 +1,19 @@
+# Visual Studio cache
+.vs/
+
+# Rider / IntelliJ
+.idea/
+
+# Build outputs
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+
+# Node.js dependencies (if you have a React frontend)
+/node_modules/
+
+# Vite build outputs
+/dist/
